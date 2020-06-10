@@ -1,10 +1,10 @@
 # Data-driven Mixed Precision Sparse Matrix Vector Multiplication for GPUs (MpSpMV)
 
-In the publication linked below we used C code to split sparse matrices. However for ease of use this reposotiry hosts a Matlab version of the split code.
+In the publication linked below we used C code to split sparse matrices. However for ease of use this repository hosts a Matlab version of the split code.
 
 Related publication available here: https://dl.acm.org/doi/pdf/10.1145/3371275
 
-The following instructions asume that the sparse matrix is not symmetrical. If the sparse matrix you want to split into two regions please expand the symmetric matrix and then use these instructions.
+The following instructions assume that the sparse matrix is not symmetrical. If the sparse matrix you want to split into two regions please expand the symmetric matrix and then use these instructions.
 
 
 ```

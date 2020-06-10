@@ -27,6 +27,6 @@ figure
 spy(spconvert(mat_out))
 ```
 
-![Orginal Sparse Matrix](https://github.com/KhalidTheeb/MpSpMV/blob/master/Img/Org.jpg)
+![Orginal Sparse Matrix](https://github.com/KhalidTheeb/MpSpMV/blob/master/Img/Org.jpg "Orginal Sparse Matrix")
 ![Inner Values](https://github.com/KhalidTheeb/MpSpMV/blob/master/Img/In.jpg)
 ![Outter Values](https://github.com/KhalidTheeb/MpSpMV/blob/master/Img/Out.jpg)
